@@ -5,3 +5,4 @@ tensorflow
 gunicorn
 pillow
 protobuf
+TensorRT
