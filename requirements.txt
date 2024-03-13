@@ -6,3 +6,4 @@ gunicorn
 pillow
 protobuf
 TensorRT
+libgl1-mesa-glx
